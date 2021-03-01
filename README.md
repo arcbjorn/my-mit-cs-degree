@@ -1,15 +1,3 @@
----
-attachments: [mit-6-3-roadmap.jpg]
-favorited: true
-pinned: true
-tags: [MIT]
-title: README
-created: "2021-02-27T20:15:46.215Z"
-modified: "2021-03-01T08:59:40.569Z"
----
-
-README
-
 ### [Info about Degree (6-3)](http://catalog.mit.edu/schools/engineering/electrical-engineering-computer-science/#undergraduatestudytext) 2021
 
 # [Computer Science and Engineering (Course 6-3)](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
