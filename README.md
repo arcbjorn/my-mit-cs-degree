@@ -15,6 +15,7 @@
 
 1. Departmental Requirements
    1. [Introduction to Computer Science and Programming in Python _6.0001_](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+      - [**Completed coursework**](https://github.com/arcbjorn/intro-cs-python-6.0001)
    1. [Introduction to Computational Thinking and Data Science _6.0002_](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
    1. [Mathmatics for Computer Science _6.042[J]_](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
    1. [Introduction to EECS I _6.01SC_](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
