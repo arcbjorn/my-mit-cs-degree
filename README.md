@@ -37,6 +37,6 @@
    - Independent Inquiry Subjects
      1. [Computer Language Engineering _6.035_](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010/)
 
-Total Units Beyond the GIRs Required for SB Degree: **0 / 183**
+Total Units Beyond the GIRs Required for SB Degree: **6 / 183**
 
 ![](mit-6-3-roadmap.jpg)
