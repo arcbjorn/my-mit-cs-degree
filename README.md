@@ -17,6 +17,7 @@
    1. [Introduction to Computer Science and Programming in Python _6.0001_](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
       - [**Completed coursework**](https://github.com/arcbjorn/intro-cs-python-6.0001)
    1. [Introduction to Computational Thinking and Data Science _6.0002_](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+      - [**Completed coursework**](https://github.com/arcbjorn/intro-cs-python-6.0002)
    1. [Mathmatics for Computer Science _6.042[J]_](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
    1. [Effective Programming in C and C++ _6.S096_](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/)
    1. [Introduction to Programming in Java _6.092_](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
